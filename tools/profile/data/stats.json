@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "year": 2026,
   "created_at": "2016-12-26T08:38:44Z",
   "stars": 60,
@@ -9,7 +9,7 @@
   "commits_all": 820,
   "prs": 159,
   "prs_merged": 154,
-  "streak_current": 2,
+  "streak_current": 0,
   "streak_longest": 24,
   "hackathon_wins": 2,
   "languages": {
@@ -24,7 +24,7 @@
     "Smalltalk": 592
   },
   "repo_stars": {
-    "georgekobaidze": 20,
+    "georgekobaidze": 19,
     "design-patterns": 0,
     "vscode-settings": 0,
     "oh-my-posh": 0,
@@ -32,16 +32,16 @@
     "dotnet10-playground": 1,
     "metal-birds-watch": 10,
     "sunday-dev-drive": 9,
-    "noterunway": 13,
+    "noterunway": 14,
     "neuralhats": 7,
     "georgian-language-benchmarks": 0
   },
   "dev": {
     "articles": 48,
-    "reactions": 2384,
-    "comments": 1619,
-    "views": 117992,
-    "followers": 15857
+    "reactions": 2415,
+    "comments": 1630,
+    "views": 118763,
+    "followers": 16422
   },
   "contributions_year": 1109,
   "contributions_all": 1749
