@@ -1,10 +1,17 @@
 [
   {
+    "published_at": "2026-10-25T06:44:20.191Z",
+    "title": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
+    "url": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k",
+    "reactions": 18,
+    "comments": 14
+  },
+  {
     "published_at": "2026-10-18T10:55:38.001Z",
     "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
     "url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa",
-    "reactions": 224,
-    "comments": 118
+    "reactions": 225,
+    "comments": 125
   },
   {
     "published_at": "2026-10-15T19:22:46.760Z",
@@ -26,12 +33,5 @@
     "url": "https://dev.to/georgekobaidze/i-turned-my-github-profile-into-a-cyberpunk-console-with-a-city-built-from-my-contributions-h4c",
     "reactions": 253,
     "comments": 162
-  },
-  {
-    "published_at": "2026-09-25T19:01:14.432Z",
-    "title": "Vim's Swan Song: Is It Time to :q!?",
-    "url": "https://dev.to/georgekobaidze/vims-swan-song-is-it-time-to-q-eek",
-    "reactions": 35,
-    "comments": 23
   }
 ]
