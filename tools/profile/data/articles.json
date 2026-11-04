@@ -1,9 +1,16 @@
 [
   {
+    "published_at": "2026-11-04T17:11:22.833Z",
+    "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
+    "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
+    "reactions": 5,
+    "comments": 1
+  },
+  {
     "published_at": "2026-10-26T16:46:19.188Z",
     "title": "Doors I Walked Through to Reach DEV",
     "url": "https://dev.to/devengers/doors-i-walked-through-to-reach-dev-5294",
-    "reactions": 153,
+    "reactions": 154,
     "comments": 94
   },
   {
@@ -26,12 +33,5 @@
     "url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi",
     "reactions": 141,
     "comments": 66
-  },
-  {
-    "published_at": "2026-10-11T19:40:43.147Z",
-    "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules",
-    "url": "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
-    "reactions": 73,
-    "comments": 37
   }
 ]
