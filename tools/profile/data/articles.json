@@ -1,16 +1,23 @@
 [
   {
+    "published_at": "2026-11-26T18:50:06.755Z",
+    "title": "C# 15 Unpacked: Popping the Hood on Labeled Loops and Finding No Labels at All",
+    "url": "https://dev.to/georgekobaidze/c-15-unpacked-popping-the-hood-on-labeled-loops-and-finding-no-labels-at-all-4ci0",
+    "reactions": 21,
+    "comments": 0
+  },
+  {
     "published_at": "2026-11-24T19:01:44.497Z",
     "title": "C# 15 Unpacked: The Retro New Feature Nobody Expected in 2026",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-the-retro-new-feature-nobody-expected-in-2026-38a",
     "reactions": 30,
-    "comments": 2
+    "comments": 4
   },
   {
     "published_at": "2026-11-23T13:24:24.577Z",
     "title": "C# 15 Unpacked: Practical Use Cases for Unions with Real Examples",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32",
-    "reactions": 42,
+    "reactions": 43,
     "comments": 17
   },
   {
@@ -24,14 +31,7 @@
     "published_at": "2026-11-19T21:20:16.643Z",
     "title": "C# 15 Unpacked: Unions Have Arrived. Here's Why They Matter",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-unions-have-arrived-heres-why-they-matter-48je",
-    "reactions": 51,
+    "reactions": 52,
     "comments": 21
-  },
-  {
-    "published_at": "2026-11-15T16:16:45.906Z",
-    "title": ".NET 11 Unpacked: Why I'm Recommending STS This Time",
-    "url": "https://dev.to/georgekobaidze/net-11-unpacked-why-im-recommending-sts-this-time-lnj",
-    "reactions": 33,
-    "comments": 4
   }
 ]
