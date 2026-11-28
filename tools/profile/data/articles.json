@@ -1,10 +1,17 @@
 [
   {
+    "published_at": "2026-11-28T11:07:13.085Z",
+    "title": "C# 15 Unpacked: Closed Hierarchies, the Members-Only Club for Your Classes",
+    "url": "https://dev.to/georgekobaidze/c-15-unpacked-closed-hierarchies-the-members-only-club-for-your-classes-58dc",
+    "reactions": 18,
+    "comments": 3
+  },
+  {
     "published_at": "2026-11-26T18:50:06.755Z",
     "title": "C# 15 Unpacked: Popping the Hood on Labeled Loops and Finding No Labels at All",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-popping-the-hood-on-labeled-loops-and-finding-no-labels-at-all-4ci0",
-    "reactions": 21,
-    "comments": 0
+    "reactions": 22,
+    "comments": 2
   },
   {
     "published_at": "2026-11-24T19:01:44.497Z",
@@ -18,7 +25,7 @@
     "title": "C# 15 Unpacked: Practical Use Cases for Unions with Real Examples",
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32",
     "reactions": 43,
-    "comments": 17
+    "comments": 19
   },
   {
     "published_at": "2026-11-21T20:27:37.147Z",
@@ -26,12 +33,5 @@
     "url": "https://dev.to/georgekobaidze/c-15-unpacked-popping-the-hood-on-unions-and-finding-a-struct-59f0",
     "reactions": 22,
     "comments": 2
-  },
-  {
-    "published_at": "2026-11-19T21:20:16.643Z",
-    "title": "C# 15 Unpacked: Unions Have Arrived. Here's Why They Matter",
-    "url": "https://dev.to/georgekobaidze/c-15-unpacked-unions-have-arrived-heres-why-they-matter-48je",
-    "reactions": 52,
-    "comments": 21
   }
 ]
